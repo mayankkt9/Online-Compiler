@@ -1,0 +1,11 @@
+begin
+
+    var x;
+    var y;
+    var z;
+    if x * 2 = y + 3then
+        z := 1
+    else 
+        z := 0
+    endif
+end.
